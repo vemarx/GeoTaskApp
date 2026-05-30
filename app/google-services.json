@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008274648407",
+    "project_id": "geotaskapp1",
+    "storage_bucket": "geotaskapp1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008274648407:android:54d5b9e44322cdadfde212",
+        "android_client_info": {
+          "package_name": "com.example.geotaskapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFMkQ97WrJjuCx3j5osUJIkWluYaoYjM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,43 @@
+<resources>
+
+    <string name="app_name">GeoTaskApp1</string>
+
+    <string name="salvar_tarefa">Salvar tarefa</string>
+
+    <string name="digite_uma_tarefa">Digite uma tarefa</string>
+
+    <string name="geotask_app">GeoTask App</string>
+
+    <string name="informa_es">Informações</string>
+
+    <string name="ver_localizacao">Ver localização</string>
+
+    <string name="minha_localizacao">Minha Localização</string>
+
+    <string name="latitude">Latitude:</string>
+
+    <string name="longitude">Longitude:</string>
+
+    <string name="voltar">Voltar</string>
+
+    <string name="usuario_autenticado_google">
+        Usuário autenticado com Google
+    </string>
+
+    <string name="digite_tarefa_aviso">
+        Digite uma tarefa.
+    </string>
+
+    <string name="tarefa_salva_sucesso">
+        Tarefa salva com sucesso!
+    </string>
+
+    <string name="latitude_format">
+        Latitude: %1$.6f
+    </string>
+
+    <string name="longitude_format">
+        Longitude: %1$.6f
+    </string>
+
+</resources>
