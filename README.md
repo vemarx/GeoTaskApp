@@ -87,4 +87,5 @@ git clone https://github.com/SEU-USUARIO/GeoTaskApp.git
 
 ## 👩‍💻 Autora
 
-Desenvolvido por Verônica como projeto de estudo e prática de desenvolvimento Android.
+Desenvolvido por Verônica Palevicius
+R.A.: R.A.: 1051392421008
