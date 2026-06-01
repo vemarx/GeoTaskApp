@@ -19,6 +19,7 @@ import com.google.android.gms.location.FusedLocationProviderClient;
 import com.google.android.gms.location.LocationServices;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.auth.FirebaseAuth;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -98,11 +99,13 @@ public class MainActivity extends AppCompatActivity {
                 LocationServices.getFusedLocationProviderClient(this);
 
         // LOGIN GOOGLE
-        if (GoogleSignIn.getLastSignedInAccount(this) != null) {
+        if (FirebaseAuth.getInstance().getCurrentUser() != null) {
+
             txtInfo.setText(
-                    getString(
-                            R.string.usuario_autenticado_google
-                    )
+                    "Usuário: "
+                            + FirebaseAuth.getInstance()
+                            .getCurrentUser()
+                            .getEmail()
             );
         }
 
