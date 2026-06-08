@@ -3,6 +3,7 @@
     <string name="app_name">GeoTaskApp1</string>
 
     <string name="salvar_tarefa">Salvar tarefa</string>
+    <string name="atualizar_tarefa">Atualizar tarefa</string>
 
     <string name="digite_uma_tarefa">Digite uma tarefa</string>
 
@@ -31,6 +32,8 @@
     <string name="tarefa_salva_sucesso">
         Tarefa salva com sucesso!
     </string>
+
+    <string name="usuario_label">Usuário: %1$s</string>
 
     <string name="latitude_format">
         Latitude: %1$.6f
