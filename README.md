@@ -5,6 +5,7 @@ Aplicativo Android desenvolvido em Java para gerenciamento de tarefas com suport
 ## 🚀 Funcionalidades
 
 * Login com conta Google
+* CRUD
 * Autenticação utilizando Firebase Authentication
 * Cadastro de tarefas
 * Persistência local utilizando Room Database
