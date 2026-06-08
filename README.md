@@ -69,24 +69,7 @@ O projeto foi desenvolvido para demonstrar a integração entre recursos moderno
 * Arquitetura utilizando Room
 * Integração com Firebase
 
-## 🔧 Como Executar
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/SEU-USUARIO/GeoTaskApp.git
-```
-
-2. Abra o projeto no Android Studio.
-
-3. Configure o Firebase:
-
-   * Crie um projeto no Firebase Console
-   * Adicione o arquivo `google-services.json`
-
-4. Execute o aplicativo em um dispositivo Android ou emulador.
 
 ## 👩‍💻 Autora
 
-Desenvolvido por Verônica Palevicius
-R.A.: R.A.: 1051392421008
+Desenvolvido por Verônica Palevicius R.A.:  1051392421008
