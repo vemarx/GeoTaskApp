@@ -10,4 +10,12 @@ public class Task {
     public int id;
 
     public String titulo;
+
+    // Chave do registro no Firebase
+    public String firebaseKey;
+
+    @Override
+    public String toString() {
+        return "✔ " + titulo;
+    }
 }

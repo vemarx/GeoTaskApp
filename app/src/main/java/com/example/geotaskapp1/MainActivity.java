@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
     private double longitude;
     private ListView listTasks;
     private ArrayAdapter<String> adapter;
-    private List<String> tarefasLista;
+    private List<Task> tarefasLista;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
